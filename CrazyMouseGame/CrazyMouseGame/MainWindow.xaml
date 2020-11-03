@@ -1,0 +1,48 @@
+﻿<Window x:Class="CrazyMouseGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrazyMouseGame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        WindowState="Maximized"
+        WindowStyle="None">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+       
+        
+        <!--Score-->
+        <TextBox x:Name="txtDisplay" Grid.Column="4" Grid.Row="0" IsReadOnly="True" TextAlignment="Center" VerticalContentAlignment="Center" FontSize="30" BorderThickness="2">Score: 0</TextBox>
+        <!--Clicky Button-->
+        <Button x:Name="FunkyButton" Grid.Row="1" Grid.Column="0" FontSize="20" Grid.ColumnSpan="5" Grid.RowSpan="5" Click="FunkyButton_Click" BorderBrush="White">Fear</Button>
+        <!--Start Button-->
+        <Button x:Name="Start" Grid.Row="0" Grid.Column="2" FontSize="20" Click="Start_Click">Start</Button>
+        <!--Keep Track of time-->
+        <Button x:Name="Time" Grid.Row="0" Grid.Column="0" FontSize="20" Click="Time_Click">1:20</Button>
+        <Button x:Name="BetterTimer" Grid.Row="0" Grid.Column="3" FontSize="20" Click="BetterTimer_Click">Restart</Button>
+        <!--Exit Button || This button is all thanks to josh the local hero.-->
+        <Button x:Name="Exit" Grid.Row="0" Grid.Column="1" FontSize="20" Click="Exit_Click">Exit</Button>
+
+        <TextBlock x:Name="Texty" Grid.Row="1" Grid.Column="0" FontSize="50" Grid.ColumnSpan="5" Grid.RowSpan="4"></TextBlock>
+        <TextBox x:Name="Namey" Grid.Row="5" Grid.Column="0" FontSize="75" Grid.ColumnSpan="4" Grid.RowSpan="1" TextAlignment="Center" VerticalContentAlignment="Center" Visibility="Hidden"></TextBox>
+        <Button x:Name="Sub" Grid.Row="5" Grid.Column="4" FontSize="20" Click="Sub_Click" Visibility="Hidden">Nope 5</Button>
+
+    </Grid>
+</Window>

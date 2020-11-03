@@ -1,0 +1,15 @@
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\bin\Debug\CrazyMouseGame.exe.config
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\bin\Debug\CrazyMouseGame.exe
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\bin\Debug\CrazyMouseGame.pdb
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\CrazyMouseGame.csprojAssemblyReference.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\MainWindow.g.cs
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\App.g.cs
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\CrazyMouseGame_MarkupCompile.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\CrazyMouseGame_MarkupCompile.lref
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\MainWindow.baml
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\CrazyMouseGame.g.resources
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\CrazyMouseGame.Properties.Resources.resources
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\CrazyMouseGame.csproj.GenerateResource.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\CrazyMouseGame.csproj.CoreCompileInputs.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\CrazyMouseGame.exe
+C:\Users\Smith_Conner\Desktop\WPF Stuff\CrazyWPF Game\CrazyMouseGame\CrazyMouseGame\obj\Debug\CrazyMouseGame.pdb
